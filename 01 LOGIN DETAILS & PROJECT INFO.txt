@@ -1,0 +1,18 @@
+
+**Database Name: student_result**
+
+**Developed by Aastha Oza**
+
+**Developed by Charmy Patel**
+
+**Developed by Surbhee Kunapra**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Login Details**
+
+Username: aastha
+Password: 12345
+
+
